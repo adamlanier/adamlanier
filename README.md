@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @adamlanier
 - 👀 I’m interested in solving problems and automating tasks with Python and Powershell.
 - 🌱 I’m currently sharpening my programming skills while learning as much as possible. 
+- :video_game: I also love to play video games with friends, paint, and play board games.
 - 📫 I can be reached via my email adam.lanier@live.com
 <!---
 adamlanier/adamlanier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
